@@ -9,6 +9,7 @@ I'm a third year computer science student at Karelia University Of Applied Scien
 - HTML
 - CSS
 - Node.js
+- WordPress
 - Docker
 - Google Cloud Platform
 - MariaDB
