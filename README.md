@@ -19,8 +19,8 @@ I'm a third year computer science student at Karelia University Of Applied Scien
 
 ### Contact
 - atte.katainen@gmail.com
-- https://www.linkedin.com/in/atte-katainen-1487061a6
+- www.linkedin.com/in/atte-katainen
 
 ### Socials
-- https://www.instagram.com/attekatainen/?hl=fi
-- https://www.youtube.com/channel/UCRtldTVbWdybTlMHj6qJDew/featured
+- www.instagram.com/attekatainen
+- www.youtube.com/channel/UCRtldTVbWdybTlMHj6qJDew/featured
