@@ -1,6 +1,6 @@
 ## Hi, I'm Atte 👋
 
-I'm a third year computer science student at Karelia University Of Applied Sciences. I'm interested about full stack development and I have work experience of it from the 5 month internship. I have also done many projects in my free time and in my studies. Other things I like to do in my free time is photography, running, hiking and going to the gym.
+I'm a third year Business Information Technology student at Karelia University Of Applied Sciences. I'm interested about full stack development and I have work experience of it from the 5 month internship. I have also done many projects in my free time and in my studies. Other things I like to do in my free time is photography, running, hiking and going to the gym.
 
 ### Skills
 - Java
